@@ -134,8 +134,8 @@ function ContactForm() {
         </div>
       </form>
 
-      {notification && (
-        <Notification
+      {notification && (  
+        <Notification 
           status={notification.status}
           title={notification.title}
           message={notification.message}

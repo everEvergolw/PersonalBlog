@@ -14,7 +14,7 @@ function PostDetailPage(props){
             <title>{props.post.title}</title>
             <meta name='description' content={props.post.excerpt} />
           </Head>
-          <PostContent post={props.post} />
+          <PostContent post={props.post} /> 
         </Fragment>
       );
 
