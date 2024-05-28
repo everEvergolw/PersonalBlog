@@ -16,7 +16,7 @@ function Hero() {
       <h1>Hi, I'm Jiahao</h1>
       <p>
         I blog about full stack development - especially frontend frameworks like
-        React.
+        React. 
       </p>
     </section>
   );
